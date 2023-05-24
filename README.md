@@ -7,15 +7,7 @@ In the Flower-Classification-Using-CNN project, I employed deep learning techniq
 
 The 5 classes in the datasets are:
 
-- Daisy
-
-- Dandelion
-
-- Roses
-
-- Sunflowers
-
-- Tulips
+- Daisy, Dandelion, Roses, Sunflowers, Tulips
 
 # Objective:
 
