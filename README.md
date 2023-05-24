@@ -1,6 +1,6 @@
 # Flower-Classification-Using-CNN
 
-The main objective is to use Convolutional Neural Networks (CNN) to classify flower images into 5 categories
+In the Flower-Classification-Using-CNN project, I employed deep learning techniques with Keras for image classification on the CIFAR-10 dataset. By creating a Convolutional Neural Network (CNN) model, monitoring the learning progress via Tensorboard, and training the model on the dataset, my goal was to enhance its accuracy in predicting flower classes. The performance of the model was evaluated using a confusion matrix, and the project's outcomes contributed to the advancement of flower classification and deep learning methodologies.
 
 # Dataset
 
